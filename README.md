@@ -2,7 +2,7 @@
 
 <a href="https://www.buymeacoffee.com/Aaronstyles"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=Aaronstyles&button_colour=5F7FFF&font_colour=ffffff&font_family=Inter&outline_colour=000000&coffee_colour=FFDD00" /></a>
 ---
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sassmonkey2002&cover_image=false&theme=compact&show_offline=true)](https://spotify-github-profile.vercel.app/api/view?uid=sassmonkey2002&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sassmonkey2002&cover_image=true&theme=compact&show_offline=true)](https://spotify-github-profile.vercel.app/api/view?uid=sassmonkey2002&redirect=true)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
